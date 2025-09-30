@@ -1,2 +1,1 @@
-# EDA
-This repository SOME OF my very challenging eda works.!</p>
+# Some Ml workflows and extracting Earth Observation Data
